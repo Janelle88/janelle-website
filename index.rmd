@@ -11,10 +11,8 @@ links:
   - label: Email
     url: "mailto:jnchristensen1788@gmail.com"
 output:
-  postcards::jolla
+  postcards::trestles
 site: distill::distill_website
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+Wow. My own website. Task 1: send to all of my friends (aka just my mom) to let them know how much I'm learning in grad school. 
