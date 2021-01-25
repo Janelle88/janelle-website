@@ -1,0 +1,14 @@
+name: "."
+title: "Janelle Christensen"
+description: |
+  Janelle Christensen
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Janelle Christensen"
+      href: janelle_christensen.html
+output: distill::distill_article
